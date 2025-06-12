@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Milena Ribeiro</h1>
-<h3 align="center">Profissional com experiência em desenvolvimento de dashboards interativo, banco de dados relacionais e não estruturados.</h3>
+<h3 align="center">Transformo dados em decisões inteligentes, unindo visão analítica e conhecimento de negócio para gerar resultados de verdade.</h3>
 
 - 🎯 Atualmente trabalho com **análise de dados e automação de processos no setor de educação**, desenvolvendo dashboards no Power BI para monitoramento de desempenho e utilizando Python e SQL para tratamento e análise de dados.
 
