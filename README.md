@@ -34,7 +34,7 @@ Tenho experiência prática com **tratamento, análise e visualização de dados
 - Bancos de dados relacionais (PostgreSQL, Oracle)
 - DuckDB (análises locais e prototipação)
 
-### **Orquestração & Streaming (em evolução)**
+### **Orquestração & Streaming**
 - Apache Airflow (conceitos e uso inicial)
 - Apache Kafka (mensageria e pipelines orientados a eventos)
 
